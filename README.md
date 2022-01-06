@@ -1,7 +1,7 @@
 # Template for the Travel Agency project
 
-[![build workflow](https://github.com/momsy/travel_agency/actions/workflows/build.yml/badge.svg)](https://github.com/momsy/travel_agency/actions)
-[![codecov](https://codecov.io/gh/momsy/travel_agency/branch/main/graph/badge.svg)](https://codecov.io/gh/momsy/travel_agency)
+[![build workflow](https://github.com/Momsy/travel_agency/actions/workflows/build.yml/badge.svg)](https://github.com/Momsy/travel_agency/actions)
+[![codecov](https://codecov.io/gh/Momsy/travel_agency/branch/main/graph/badge.svg)](https://codecov.io/gh/Momsy/travel_agency)
 
 ## Build the project
 
