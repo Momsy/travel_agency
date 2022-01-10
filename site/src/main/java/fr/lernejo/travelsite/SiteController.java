@@ -17,13 +17,13 @@ public class SiteController {
     @GetMapping(value="/api/travels")
     public ArrayList<TravelCountry> destination(@RequestParam String userName)
     {
-        ArrayList<TravelCountry> countries = new ArrayList<>();
+        ArrayList<TravelCountry> pays = new ArrayList<>();
 
         for (Registre registre:signingup)
         {
             if (registre.userName().equals(userName))
             {
-                return countries;
+                return pays;
             }
         }
         return new ArrayList<>();
